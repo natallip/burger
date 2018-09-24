@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Ubuntu Light';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), local('Ubuntu Light'),
+  url('../fonts/Ubuntu/ubuntu-light-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/Ubuntu/ubuntu-light-webfont.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/Ubuntu/Ubuntu-Light.ttf') format('truetype') /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'Ubuntu Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'),
+  url('../fonts/Ubuntu/ubuntu-b-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/Ubuntu/ubuntu-b-webfont.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/Ubuntu/Ubuntu-B.ttf') format('truetype') /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'Ubuntu Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'),
+  url('../fonts/Ubuntu/ubuntu-medium-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/Ubuntu/ubuntu-medium-webfont.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/Ubuntu/Ubuntu-Medium.ttf') format('truetype') /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'Ubuntu Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'),
+  url('../fonts/Ubuntu/ubuntu-regular-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/Ubuntu/ubuntu-regular-webfont.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetype') /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'Gagalin Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gagalin'),
+  url('../fonts/Gagalin/gagalin-regular-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/Gagalin/gagalin-regular-webfont.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/Gagalin/Gagalin-Regular.otf') format('otf') /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'Lifehack Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lifehack'),
+  url('../fonts/Lifehack/lifehack_medium-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/Lifehack/lifehack_medium-webfont.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/Lifehack/Lifehack-Medium.otf') format('otf') /* Safari, Android, iOS */
+}
